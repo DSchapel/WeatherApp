@@ -1,2 +1,2 @@
 # WeatherApp
-A simple weather app to practice my typescript/react.
+A simple weather app to practice my typescript and rest API skills.
